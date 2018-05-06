@@ -1,5 +1,7 @@
 # Playing-with-Pima-Indian-Heritage-data
 
+This is just a short description of my work flow, if you want to find hole work take a look at newPima Jupyter notebook  or html file. 
+
 If your know about some supervised learning and want to apply you knowleadge with different classifier then this is the best data-set you can start with.
 
 Last accouracy result :
